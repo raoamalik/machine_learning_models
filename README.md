@@ -1,2 +1,2 @@
 # machine_learning_models
-This repository will contain learning material for machine learning.
+This repository will contain practice material for machine learning.
